@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ServerCore",
+  "name": "ServerCore",
+  "description": "ServerSuite's Core mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Black_Ace", "wasliebob"],
+  "credits": "Empty for now",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
